@@ -10,7 +10,7 @@ public class TestGuelerogluController {
     @GetMapping("/restapi")
     public String GetGrade(@RequestParam int percentageValue) {
 
-        if (percentageValue >= 88) {
+        if (percentageValue >= 80) {
             return "1";
 
         } else
