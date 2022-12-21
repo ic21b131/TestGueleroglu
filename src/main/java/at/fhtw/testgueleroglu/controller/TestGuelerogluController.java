@@ -20,7 +20,7 @@ public class TestGuelerogluController {
             if ((percentageValue >= 63) && percentageValue < 75))
             return "3";
 
-            if ((percentageValue >= 50) && percentageValue < 63))           nicht fertig geworden, wegen der Zeit
+            if ((percentageValue >= 50) && percentageValue < 63))      nicht fertig geworden, wegen der Zeit
             return "4";
 
             if (percentageValue < 50)
